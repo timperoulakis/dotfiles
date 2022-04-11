@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = timperoulakis@gmail.com
+	name = Timothee Peroulakis
